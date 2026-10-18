@@ -2,16 +2,17 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00B4D8&center=true&vCenter=true&width=750&lines=Enterprise+Architect+%E2%80%94+Data%2C+Solutions+%26+AI;Evolved+from+Enterprise+Data+Engineering+Lead;M.Tech+in+Artificial+Intelligence+%26+ML+%40+BITS+Pilani;Architecting+Modern+Lakehouse+%26+Enterprise+Solutions;Building+Production+MLOps+%26+Applied+LLM+Pipelines)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00B4D8&center=true&vCenter=true&width=750&lines=Enterprise+Architect+%E2%80%94+Data%2C+Solutions+%26+AI;Author+of+Kiran%27s+Notes+%E2%80%94+The+Vortex+Series;M.Tech+in+Artificial+Intelligence+%26+ML+%40+BITS+Pilani;Architecting+Modern+Lakehouse+%26+Enterprise+Solutions;Building+Production+MLOps+%26+Applied+LLM+Pipelines)](https://git.io/typing-svg)
 
 <p align="center">
-  <b>Enterprise Architect (Data, Solutions & AI)</b> • <b>Applied AI Practitioner</b> • <b>M.Tech AI/ML @ BITS Pilani</b>
+  <b>Enterprise Architect (Data, Solutions & AI)</b> • <b>Author: Kiran's Notes</b> • <b>M.Tech AI/ML @ BITS Pilani</b>
 </p>
 
 <p align="center">
+  <a href="#-thought-leadership--essays-kirans-notes">Kiran's Notes</a> •
   <a href="#-executive-summary">Executive Summary</a> •
-  <a href="#-featured-repositories">Featured Work</a> •
-  <a href="#-technical-stack--tools">Architecture Stack</a> •
+  <a href="#-featured-repositories">Featured Repos</a> •
+  <a href="#-enterprise-architecture--technology-stack">Architecture Stack</a> •
   <a href="#-github-telemetry">Telemetry</a>
 </p>
 
@@ -21,7 +22,7 @@
 
 ## 📌 Executive Summary
 
-I am an **Enterprise Architect specializing in Data, Solutions, and Artificial Intelligence**, having evolved through senior technical leadership as an **Enterprise Data Engineering Lead**. Currently pursuing an **M.Tech in Artificial Intelligence & Machine Learning** at **BITS Pilani**, my work bridges large-scale enterprise data infrastructure, multi-cloud solutions architecture, and production-grade artificial intelligence.
+I am an **Enterprise Architect specializing in Data, Solutions, and Artificial Intelligence**, having evolved through senior technical leadership as an **Enterprise Data Engineering Lead** (over 15+ years at Fidelity International leading global organizations of 110+ engineers across London, Gurugram, Bangalore, and Dalian). Currently pursuing an **M.Tech in Artificial Intelligence & Machine Learning** at **BITS Pilani**, my work bridges enterprise data platforms, solutions modernization, and production-grade artificial intelligence.
 
 ### Strategic Architecture Pillars:
 * **Enterprise Data & Lakehouse Platforms**: Designing robust, multi-cloud data lakehouse foundations utilizing open table formats (**Apache Iceberg**, **Delta Lake**, **Apache Hudi**) across Databricks, Snowflake, AWS, and Azure.
@@ -32,12 +33,24 @@ I am an **Enterprise Architect specializing in Data, Solutions, and Artificial I
 
 ---
 
+## ✍️ Thought Leadership & Essays: [Kiran's Notes](https://github.com/goelkiran/kirans-notes)
+
+I write regularly on how agentic AI, hardware economics, and cloud scale are fundamentally reshaping the software craft. GitHub serves as my canonical writing forge, with editions cross-published to my LinkedIn Newsletter:
+
+* 🌀 [**The Vortex Series (12-Part Master Arc)**](https://github.com/goelkiran/kirans-notes#part-iii-the-vortex-series-12-part-flagship-archive): Why agile and microservices were invented for humans, why AI doesn't need human-readable architectures, tracking code species, and post-agile SDLC.
+* 🌟 [**The Common Ground Series**](https://github.com/goelkiran/kirans-notes#part-i-the-common-ground-spec-driven-development--context): The Voyager Golden Record standard for specs, living documentation, and the two surfaces humans must answer for (specs & semantics).
+* 🔬 [**The Shared Microscope**](https://github.com/goelkiran/kirans-notes/blob/main/mechanistics_and_governance/the_shared_microscope.md): Superposition, Sparse Autoencoders (SAEs), Anthropic's Golden Gate Claude, and why competing frontier labs are cooperating on mechanistic interpretability for regulated finance.
+* 🎙️ **Public Speaking**: TEDx Speaker at Fidelity International.
+
+---
+
 ## 🚀 Featured Repositories
 
 <div align="center">
 
 | Project | Architectural Domain | Strategic Highlights |
 | :--- | :--- | :--- |
+| [**`kirans-notes`**](https://github.com/goelkiran/kirans-notes) | **Canonical Essay Collection** | Version-controlled collection of 18 long-form architectural essays on agentic AI, Sparse Autoencoders, and software development economics. |
 | [**`learnLLM-DeepSeek`**](https://github.com/goelkiran/learnLLM-DeepSeek) | **Private AI & Reasoning RAG** | Local RAG on corporate financial filings using **DeepSeek-R1** via **Ollama**, LangChain chunking, ChromaDB vector retrieval, and an interactive Gradio web application with zero external data exposure. |
 | [**`learnDataLakeHouses`**](https://github.com/goelkiran/learnDataLakeHouses) | **Enterprise Lakehouse Strategy** | In-depth architectural evaluation and comparative benchmarking of **Snowflake**, **Databricks**, **AWS**, and **Azure Synapse**, detailing **Iceberg vs. Delta vs. Hudi** open formats and cross-format interoperability (Xtables). |
 | [**`data-engineering-skills-2025`**](https://github.com/goelkiran/data-engineering-skills-2025) | **Engineering Capability Matrix** | Comprehensive 2025 roadmap for enterprise data teams spanning distributed stream processing, data mesh governance, pipeline orchestration, and cloud infrastructure. |
@@ -94,7 +107,11 @@ I am an **Enterprise Architect specializing in Data, Solutions, and Artificial I
 
 * **M.Tech in Artificial Intelligence & Machine Learning** — **BITS Pilani (WILP)**
   * *Specializations*: Machine Learning Operations (MLOps), Unsupervised Deep Learning, Machine Learning on Edge (MLoE), AI & ML for Robotics.
-* **Professional Focus**: Enterprise Data Architecture, Solutions Modernization, Applied LLM Governance, and Cloud-Native Distributed Systems.
+* **Executive Education & Certifications**:
+  * **Business Analytics: From Data to Insights** — **The Wharton School** (2020)
+  * **SnowPro Core Certified** — **Snowflake** (2024)
+  * **Scalable Machine Learning & Big Data with Spark** (2015)
+* **Author & Speaker**: Creator of *Kiran's Notes* newsletter on LinkedIn; TEDx Speaker at Fidelity International.
 
 ---
 
