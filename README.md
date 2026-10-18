@@ -1,8 +1,8 @@
-﻿# Hi, I'm Kiran Kumar 👋
+# Hi, I'm Kiran Kumar 👋
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00B4D8&center=true&vCenter=true&width=750&lines=Enterprise+Architect+%E2%80%94+Data%2C+Solutions+%26+AI;Author+of+Kiran%27s+Notes+%E2%80%94+The+Vortex+Series;M.Tech+in+Artificial+Intelligence+%26+ML+%40+BITS+Pilani;Architecting+Modern+Lakehouse+%26+Enterprise+Solutions;Building+Production+MLOps+%26+Applied+LLM+Pipelines)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00B4D8&center=true&vCenter=true&width=750&lines=Enterprise+Architect+%E2%80%94+Data%2C+Solutions+%26+AI;Author+of+Kiran%27s+Notes+%E2%80%94+The+Vortex+Series;M.Tech+in+Artificial+Intelligence+%26+ML+%40+BITS+Pilani;Snowflake+Data+Architect+%26+Solutions+Leader;Hands-on+Learner%3A+Applied+AI%2C+LLMs+%26+MLOps)](https://git.io/typing-svg)
 
 <p align="center">
   <b>Enterprise Architect (Data, Solutions & AI)</b> • <b>Author: Kiran's Notes</b> • <b>M.Tech AI/ML @ BITS Pilani</b>
@@ -22,14 +22,14 @@
 
 ## 📌 Executive Summary
 
-I am an **Enterprise Architect specializing in Data, Solutions, and Artificial Intelligence**, having evolved through senior technical leadership as an **Enterprise Data Engineering Lead** (over 15+ years at Fidelity International leading global organizations of 110+ engineers across London, Gurugram, Bangalore, and Dalian). Currently pursuing an **M.Tech in Artificial Intelligence & Machine Learning** at **BITS Pilani**, my work bridges enterprise data platforms, solutions modernization, and production-grade artificial intelligence.
+I am an **Enterprise Architect specializing in Data, Solutions, and Artificial Intelligence**, having evolved through senior technical leadership as an **Enterprise Data Engineering Lead** (over 15+ years at Fidelity International leading global organizations of 110+ engineers across London, Gurugram, Bangalore, and Dalian). Currently pursuing an **M.Tech in Artificial Intelligence & Machine Learning** at **BITS Pilani**, my work bridges enterprise data platforms, solutions modernization, and applied machine learning.
 
 ### Strategic Architecture Pillars:
-* **Enterprise Data & Lakehouse Platforms**: Designing robust, multi-cloud data lakehouse foundations utilizing open table formats (**Apache Iceberg**, **Delta Lake**, **Apache Hudi**) across Databricks, Snowflake, AWS, and Azure.
-* **Solutions Architecture & Modernization**: Architecting resilient, secure, and cost-optimized enterprise data solutions that transition legacy data warehouses into decoupled compute-and-storage architectures.
-* **Applied AI & Private Reasoning LLMs**: Operationalizing local open-weights reasoning models (**DeepSeek-R1**) on consumer and edge hardware with **Ollama**, **LangChain**, and **ChromaDB** for secure enterprise document RAG.
-* **Production MLOps Governance**: Engineering automated Level-2 MLOps pipelines with CI/CD gates, container isolation (Docker), orchestration (Kubernetes), and continuous model observability (MLflow & Prometheus).
-* **Edge & Embedded Intelligence**: Architecting low-latency edge inference solutions on hardware accelerators (Google Coral Edge TPU, Micro:bit, and embedded runtimes).
+* **Enterprise Data & Snowflake Architecture**: Deep hands-on production expertise in **Snowflake** (SnowPro Core certified), SQL optimization, and large-scale data modeling; actively studying and evaluating modern multi-cloud data lakehouse foundations and open table formats (**Apache Iceberg**, **Delta Lake**).
+* **Solutions Architecture & Modernization**: Architecting resilient, secure, and cost-optimized enterprise data solutions that transition legacy enterprise data warehouses into cloud-native, decoupled compute-and-storage architectures.
+* **Applied AI & Local Reasoning LLMs**: Experimenting with and operationalizing local open-weights reasoning models (**DeepSeek-R1**) with **Ollama**, **LangChain**, and **ChromaDB** for private document RAG.
+* **Applied MLOps & AI Engineering (Academic Learning & Labs)**: Actively mastering production MLOps practices — model tracking with MLflow, containerized deployments with Docker, CI/CD automation, and drift monitoring through hands-on coursework and applied academic labs at BITS Pilani.
+* **Edge & Embedded Intelligence Exploration**: Hands-on exploration of low-latency edge inference on hardware accelerators (Google Coral Edge TPU and embedded runtimes).
 
 ---
 
@@ -52,7 +52,7 @@ I write regularly on how agentic AI, hardware economics, and cloud scale are fun
 | :--- | :--- | :--- |
 | [**`kirans-notes`**](https://github.com/goelkiran/kirans-notes) | **Canonical Essay Collection** | Version-controlled collection of 18 long-form architectural essays on agentic AI, Sparse Autoencoders, and software development economics. |
 | [**`learnLLM-DeepSeek`**](https://github.com/goelkiran/learnLLM-DeepSeek) | **Private AI & Reasoning RAG** | Local RAG on corporate financial filings using **DeepSeek-R1** via **Ollama**, LangChain chunking, ChromaDB vector retrieval, and an interactive Gradio web application with zero external data exposure. |
-| [**`learnDataLakeHouses`**](https://github.com/goelkiran/learnDataLakeHouses) | **Enterprise Lakehouse Strategy** | In-depth architectural evaluation and comparative benchmarking of **Snowflake**, **Databricks**, **AWS**, and **Azure Synapse**, detailing **Iceberg vs. Delta vs. Hudi** open formats and cross-format interoperability (Xtables). |
+| [**`learnDataLakeHouses`**](https://github.com/goelkiran/learnDataLakeHouses) | **Data Lake & Lakehouse Study** | Architectural study and comparative evaluation of modern data lakehouse patterns (Snowflake, Databricks, AWS), open table formats (**Apache Iceberg**, **Delta Lake**), and storage decoupling. |
 | [**`data-engineering-skills-2025`**](https://github.com/goelkiran/data-engineering-skills-2025) | **Engineering Capability Matrix** | Comprehensive 2025 roadmap for enterprise data teams spanning distributed stream processing, data mesh governance, pipeline orchestration, and cloud infrastructure. |
 | [**`learnGenAI`**](https://github.com/goelkiran/learnGenAI) | **Generative AI & Agentic Systems** | Applied implementations of **LangGraph multi-agent workflows**, Gemini API function calling, semantic vector search, and conversational document intelligence. |
 | [**`project-bodypix`**](https://github.com/goelkiran/project-bodypix) | **Edge AI & Hardware Acceleration** | Low-latency edge vision inference application leveraging Google Coral Edge TPU coprocessors. |
