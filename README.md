@@ -2,16 +2,16 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=650&lines=Data+Engineer+%26+Enterprise+Architect;M.Tech+in+AI+%26+ML+%40+BITS+Pilani;Designing+Modern+Lakehouse+Architectures;Building+Production+MLOps+%26+Local+LLM+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00B4D8&center=true&vCenter=true&width=750&lines=Enterprise+Architect+%E2%80%94+Data%2C+Solutions+%26+AI;Evolved+from+Enterprise+Data+Engineering+Lead;M.Tech+in+Artificial+Intelligence+%26+ML+%40+BITS+Pilani;Architecting+Modern+Lakehouse+%26+Enterprise+Solutions;Building+Production+MLOps+%26+Applied+LLM+Pipelines)](https://git.io/typing-svg)
 
 <p align="center">
-  <b>Enterprise Data Architect</b> • <b>Data Engineer</b> • <b>Applied AI Practitioner</b>
+  <b>Enterprise Architect (Data, Solutions & AI)</b> • <b>Applied AI Practitioner</b> • <b>M.Tech AI/ML @ BITS Pilani</b>
 </p>
 
 <p align="center">
   <a href="#-executive-summary">Executive Summary</a> •
-  <a href="#-featured-repositories">Featured Repos</a> •
-  <a href="#-technical-stack--tools">Tech Stack</a> •
+  <a href="#-featured-repositories">Featured Work</a> •
+  <a href="#-technical-stack--tools">Architecture Stack</a> •
   <a href="#-github-telemetry">Telemetry</a>
 </p>
 
@@ -21,13 +21,14 @@
 
 ## 📌 Executive Summary
 
-I am a senior data practitioner with deep experience across **Enterprise Data Engineering**, **Modern Data Lakehouse Architectures**, and **Applied Artificial Intelligence**. Currently pursuing an **M.Tech in Artificial Intelligence & Machine Learning** at **BITS Pilani**, my work bridges the gap between scalable distributed data infrastructure and production-grade AI systems.
+I am an **Enterprise Architect specializing in Data, Solutions, and Artificial Intelligence**, having evolved through senior technical leadership as an **Enterprise Data Engineering Lead**. Currently pursuing an **M.Tech in Artificial Intelligence & Machine Learning** at **BITS Pilani**, my work bridges large-scale enterprise data infrastructure, multi-cloud solutions architecture, and production-grade artificial intelligence.
 
-My recent focus centers on:
-* **Modern Lakehouse Architectures**: Technical evaluation and implementation of open table formats (**Apache Iceberg**, **Delta Lake**, **Apache Hudi**) across Databricks, Snowflake, AWS, and Azure.
-* **Applied Reasoning LLMs**: Running local open-weights reasoning models (**DeepSeek-R1**) on consumer GPU hardware with **Ollama**, **LangChain**, and **ChromaDB** for private enterprise RAG.
-* **Production MLOps**: End-to-end continuous integration, continuous delivery, containerization (Docker multi-stage), orchestration (Kubernetes), and experiment tracking (MLflow).
-* **Edge & Embedded AI**: Accelerated inference on constrained hardware (Google Coral Edge TPU, Micro:bit, and Android).
+### Strategic Architecture Pillars:
+* **Enterprise Data & Lakehouse Platforms**: Designing robust, multi-cloud data lakehouse foundations utilizing open table formats (**Apache Iceberg**, **Delta Lake**, **Apache Hudi**) across Databricks, Snowflake, AWS, and Azure.
+* **Solutions Architecture & Modernization**: Architecting resilient, secure, and cost-optimized enterprise data solutions that transition legacy data warehouses into decoupled compute-and-storage architectures.
+* **Applied AI & Private Reasoning LLMs**: Operationalizing local open-weights reasoning models (**DeepSeek-R1**) on consumer and edge hardware with **Ollama**, **LangChain**, and **ChromaDB** for secure enterprise document RAG.
+* **Production MLOps Governance**: Engineering automated Level-2 MLOps pipelines with CI/CD gates, container isolation (Docker), orchestration (Kubernetes), and continuous model observability (MLflow & Prometheus).
+* **Edge & Embedded Intelligence**: Architecting low-latency edge inference solutions on hardware accelerators (Google Coral Edge TPU, Micro:bit, and embedded runtimes).
 
 ---
 
@@ -35,23 +36,23 @@ My recent focus centers on:
 
 <div align="center">
 
-| Project | Domain | Architecture Highlights |
+| Project | Architectural Domain | Strategic Highlights |
 | :--- | :--- | :--- |
-| [**`learnLLM-DeepSeek`**](https://github.com/goelkiran/learnLLM-DeepSeek) | **Local LLMs & Private RAG** | Running **DeepSeek-R1** locally via **Ollama**, LangChain text chunking, ChromaDB vector search, and an interactive Gradio web interface for PDF RAG on corporate financial filings. |
-| [**`learnDataLakeHouses`**](https://github.com/goelkiran/learnDataLakeHouses) | **Enterprise Data Architecture** | Deep architectural comparison of **Snowflake**, **Databricks**, **AWS**, and **Azure Synapse**, with technical benchmarks across **Apache Iceberg**, **Delta Tables**, and **Apache Hudi** formats. |
-| [**`data-engineering-skills-2025`**](https://github.com/goelkiran/data-engineering-skills-2025) | **Data Engineering Roadmap** | A curated, structured curriculum for modern data engineers covering distributed storage, streaming, orchestration, governance, and cloud platforms. |
-| [**`learnGenAI`**](https://github.com/goelkiran/learnGenAI) | **Generative AI & Agentic Systems** | Hands-on implementations of **LangGraph agents**, Gemini API function calling, semantic embeddings, and conversational document retrieval. |
-| [**`project-bodypix`**](https://github.com/goelkiran/project-bodypix) | **Edge AI Inference** | Edge intelligence demo for pose estimation and human segmentation running on **Google Coral Edge TPU** accelerators. |
+| [**`learnLLM-DeepSeek`**](https://github.com/goelkiran/learnLLM-DeepSeek) | **Private AI & Reasoning RAG** | Local RAG on corporate financial filings using **DeepSeek-R1** via **Ollama**, LangChain chunking, ChromaDB vector retrieval, and an interactive Gradio web application with zero external data exposure. |
+| [**`learnDataLakeHouses`**](https://github.com/goelkiran/learnDataLakeHouses) | **Enterprise Lakehouse Strategy** | In-depth architectural evaluation and comparative benchmarking of **Snowflake**, **Databricks**, **AWS**, and **Azure Synapse**, detailing **Iceberg vs. Delta vs. Hudi** open formats and cross-format interoperability (Xtables). |
+| [**`data-engineering-skills-2025`**](https://github.com/goelkiran/data-engineering-skills-2025) | **Engineering Capability Matrix** | Comprehensive 2025 roadmap for enterprise data teams spanning distributed stream processing, data mesh governance, pipeline orchestration, and cloud infrastructure. |
+| [**`learnGenAI`**](https://github.com/goelkiran/learnGenAI) | **Generative AI & Agentic Systems** | Applied implementations of **LangGraph multi-agent workflows**, Gemini API function calling, semantic vector search, and conversational document intelligence. |
+| [**`project-bodypix`**](https://github.com/goelkiran/project-bodypix) | **Edge AI & Hardware Acceleration** | Low-latency edge vision inference application leveraging Google Coral Edge TPU coprocessors. |
 
 </div>
 
 ---
 
-## 🛠️ Technical Stack & Tooling
+## 🛠️ Enterprise Architecture & Technology Stack
 
 <div align="center">
 
-### Data Engineering & Enterprise Lakehouse
+### Enterprise Data & Lakehouse Platforms
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
@@ -60,7 +61,7 @@ My recent focus centers on:
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 
-### Machine Learning, LLMs & MLOps
+### Applied AI, LLMs & MLOps Governance
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit--Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
@@ -89,14 +90,14 @@ My recent focus centers on:
 
 ---
 
-## 🎓 Academic Credentials
+## 🎓 Academic & Professional Credentials
 
 * **M.Tech in Artificial Intelligence & Machine Learning** — **BITS Pilani (WILP)**
-  * *Focus*: Machine Learning Operations (MLOps), Unsupervised Deep Learning, AI for Robotics, Machine Learning on Edge.
-* **Continuous Engineering Education**: Generative AI, Distributed Data Pipelines, and Cloud Systems Architecture.
+  * *Specializations*: Machine Learning Operations (MLOps), Unsupervised Deep Learning, Machine Learning on Edge (MLoE), AI & ML for Robotics.
+* **Professional Focus**: Enterprise Data Architecture, Solutions Modernization, Applied LLM Governance, and Cloud-Native Distributed Systems.
 
 ---
 
 <div align="center">
-  <sub>Constructed with engineering discipline • Maintained by <a href="https://github.com/goelkiran">@goelkiran</a></sub>
+  <sub>Architected with engineering rigor • Maintained by <a href="https://github.com/goelkiran">@goelkiran</a></sub>
 </div>
